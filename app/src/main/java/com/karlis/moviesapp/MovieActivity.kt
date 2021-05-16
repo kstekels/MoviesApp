@@ -18,10 +18,14 @@ class MovieActivity: AppCompatActivity() {
         val image = intent.getIntExtra("imageID", R.drawable.a)
         val titleMovie = intent.getStringExtra("title")
         val releaseDate = intent.getStringExtra("releaseDate")
+        val genre = intent.getStringExtra("genre")
+        val movieDetails = intent.getStringExtra("details")
 
         binding.thumbnailImage.setImageResource(image)
         binding.titleName.text = titleMovie
         binding.releaseDate.text = releaseDate
+        binding.movieGenre.text = genre
+        binding.movieDetail.text = movieDetails
     }
 
 }
