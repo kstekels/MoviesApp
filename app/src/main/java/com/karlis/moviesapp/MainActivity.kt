@@ -42,16 +42,16 @@ class MainActivity : AppCompatActivity() {
         )
 
         val releaseDate = arrayOf(
-            "2021",
-            "2010",
-            "2008",
-            "2017",
-            "2017",
-            "2019",
-            "2012",
-            "2003",
-            "2016",
-            "2019"
+            "31 March 2021 (USA)",
+            "16 July 2010 (USA)",
+            "2 May 2008 (USA)",
+            "17 November 2017 (USA)",
+            "15 December 2017 (USA)",
+            "20 December 2019 (USA)",
+            "10 August 2012 (USA)",
+            "17 December 2003 (USA)",
+            "10 June 2016 (USA)",
+            "26 April 2019 (USA)"
         )
 
         val genre = arrayOf(
@@ -68,16 +68,16 @@ class MainActivity : AppCompatActivity() {
         )
 
         val details = arrayOf(
-            "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
-            "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
-            "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil. ",
+            "Legends collide as Godzilla and Kong, the two most powerful forces of nature, clash in a spectacular battle for the ages. As Monarch embarks on a perilous mission into fantastic uncharted terrain, unearthing clues to the Titans’ very origins, a human conspiracy threatens to wipe the creatures, both good and bad, from the face of the earth forever.",
+            "Your mind is the scene of the crime. Box-office superstar Leonardo DiCaprio stars in this contemporary science fiction action film set \"\"within the architecture of the mind.\"\" Written, directed and produced by Oscar® and Golden Globe nominee Christopher Nolan (The Dark Knight Trilogy, Interstellar, The Prestige), this eagerly awaited follow-up to 2008's billion-dollar blockbuster is yet another visionary tale from a startingly original filmmaker who continually raises the bar with every film he makes. Shooting in London, Paris, Tangiers, Calgary and Los Angeles, Nolan's mind-bending film also stars Academy Award® winners Michael Caine and Marion Cotillard, in addition to Juno's Elliot Page, Batman Begins' Cillian Murphy and Oscar® nominees Ken Watanabe (The Last Samurai) and Tom Berenger (Platoon).",
+            "After surviving an unexpected attack in enemy territory, jet-setting industrialist Tony Stark builds a high-tech suit of armor and vows to protect the world as Iron Man. Straight from the pages of the legendary comic book, Iron Man is a hero who is built - not born - to be unlike any other.",
             "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his new-found ally, Diana Prince, to face an even greater enemy.",
             "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order. ",
             "The surviving members of the Resistance face the First Order once again, and the legendary conflict between the Jedi and the Sith reaches its peak, bringing the Skywalker saga to its end. ",
             "An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films.",
             "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
             "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war. ",
-            "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+            "The fourth installment in the Avengers saga is the culmination of 22 interconnected Marvel films and the climax of an epic journey. The world's greatest heroes will finally understand just how fragile our reality is-and the sacrifices that must be made to uphold it-in a story of friendship, teamwork and setting aside differences to overcome an impossible obstacle."
         )
 
         moviesList = ArrayList()
